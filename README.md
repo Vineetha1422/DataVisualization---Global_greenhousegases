@@ -2,8 +2,6 @@
 
 **Interactive analysis of CO₂, methane, N₂O emissions with carbon tax policy and temperature correlations** 
 
-[![Data Source](https://img.shields.io/badge/Data-OurWorldInData-brightgreen)](https://ourworldindata.org/)
-
 ## 📌 Overview
 **Problem**: Current climate visualization tools silo emission data, policy impacts, and temperature trends, limiting holistic analysis of climate change drivers.  
 **Impact**: Enables policymakers to simultaneously analyze:
@@ -17,7 +15,7 @@
 - **Core Libraries**: 
   - ![Pandas](https://img.shields.io/badge/Pandas-Data_Integration-red)
   - ![Plotly](https://img.shields.io/badge/Plotly_Dash-Interactive_Visualization-green)
-- **Data Sources**: [OurWorldInData.org](https://ourworldindata.org/) (4 integrated datasets)
+- **Data Sources**: [OurWorldInData.org](https://ourworldindata.org/) (5 integrated datasets)
 - **Deployment**: Standalone web app with real-time interactivity
 
 ## 🧠 Approach

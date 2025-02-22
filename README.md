@@ -1,8 +1,6 @@
 # 🌍 Global Greenhouse Gas Emissions Visualization Platform  
 
-**Interactive analysis of CO₂, methane, N₂O emissions with carbon tax policy and temperature correlations**
-
-[![Open in GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?logo=github)](your-repo-link) 
+**Interactive analysis of CO₂, methane, N₂O emissions with carbon tax policy and temperature correlations** 
 [![Data Source](https://img.shields.io/badge/Data-OurWorldInData-brightgreen)](https://ourworldindata.org/)
 
 ## 📌 Overview
